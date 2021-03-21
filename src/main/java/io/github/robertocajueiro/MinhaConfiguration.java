@@ -12,4 +12,5 @@ public class MinhaConfiguration {
         return "Sistema de vendas";
 
     }
+
 }
